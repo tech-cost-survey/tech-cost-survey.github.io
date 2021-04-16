@@ -201,7 +201,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-h4dadoWfViLlDwCUWytaGrBx3N27eq9zP2CqtIIEsGs=",
+      "hash": "sha256-KVfWInDm+iHEkK9jDMx2cw7s6o0GnaM+Xr57Q4CeNOk=",
       "url": "_framework\/TTSurvey.dll"
     },
     {
@@ -273,7 +273,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-xb98H3Em1dXeRWVtflukkNoO9FCUvnzIVcBAtAlPzTE=",
+      "hash": "sha256-sSjKQg1O\/tVV\/7EqxaV\/l\/y7Q5kFkdkIBpLm7ooJuOk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -281,5 +281,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "HGCLJVY+"
+  "version": "KZIfkT3v"
 };

@@ -2,11 +2,13 @@
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+   
 }
 
 a, .btn-link {
     color: #0366d6;
 }
+
 
 .btn-primary {
     color: #fff;
@@ -29,7 +31,10 @@ a, .btn-link {
 .validation-message {
     color: red;
 }
-
+.text-footer {
+    text-align:left;
+    font-size:8px;
+}
 #blazor-error-ui {
     background: lightyellow;
     bottom: 0;
@@ -48,7 +53,12 @@ a, .btn-link {
         right: 0.75rem;
         top: 0.5rem;
     }
-
+.card-tt {
+    background-image: url('/img/TTBackground.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+}
 .slidecontainer {
     width: 100%; /* Width of the outside container */
 }

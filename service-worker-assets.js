@@ -209,7 +209,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-Ks27\/Qfjb6nEvzHYT8JwKj0B7QL8sidH8ECIcFDaOPM=",
+      "hash": "sha256-R6kiQYPIP32bd7xFJYLKHa27uA4HkC50s3gCCGL2vYw=",
       "url": "_framework\/TTSurvey.dll"
     },
     {
@@ -281,7 +281,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-Ry34FJA8guwMzkzZIoj2PqiZ24zocXqQpxaq6EqpLAc=",
+      "hash": "sha256-pLclpq8CfwrZ3PFgG5lg74bttN+TE54MFowiXnrBEmk=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -289,5 +289,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "+nZMaq4X"
+  "version": "kc3DgFyx"
 };

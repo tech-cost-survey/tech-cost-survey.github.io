@@ -65,7 +65,7 @@
       "url": "img\/TTLogo.png"
     },
     {
-      "hash": "sha256-iaiWb96ggP4cfYQNIUm7NJzeuW08gQOzNfshwNw0BhU=",
+      "hash": "sha256-EkjQDbcaQxujEVz6WO1EZJU5q0lDZM2MXt+MWnTZmLs=",
       "url": "index.html"
     },
     {
@@ -289,5 +289,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "oGMRo1+x"
+  "version": "K\/WcQcZk"
 };
